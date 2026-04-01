@@ -1,0 +1,84 @@
+- layover 临时滞留，中途下车。
+- sequel = contiuation = follow-up 续集
+- villain 恶棍 
+- vice president 副总统
+- slot 缝隙，缺口
+- zero in on a job 集中精力，瞄准
+- configure 配置
+- armpit 腋下
+- apron 围裙
+- manifest 显示
+- manual 手册
+- interface 界面
+- boot 启动
+- square with something 与......相一致
+- classified 机密的
+- dodged 逃避，推脱
+- discipline 学科
+- wrap up 完成
+- unorthodox 异于常人的>\<orthodox
+- tactics 战术
+- lumped 结成块的，聚集在一起的
+- ration 定量
+- magnify 放大，加大
+- intimate 暗示
+- champion 支持
+- aggregate / seggregate 聚合/分开
+- duplicate 复制
+- annotate 注释
+- argubly 按理说，可以说
+- convict 定罪
+- surveil 监视
+- attenuated 减弱的
+- feeble 疲软的
+- if anything 相反
+- disrupt 扰乱
+- ego 自我
+- preliminarily 初步的
+- bypass 绕开
+- restricting speech 限制言论
+- withhold 扣留
+- cap 限制
+- reinstate 恢复
+- active 合法，有效的
+- unilaterally 单方面的
+- streamrolling 碾压
+- all about 除了
+- find......unconstitutional 裁定   违宪
+- manner 方式方法
+- violate 违反违背
+- lengthy 漫长的
+- revoke 撤回
+- assert 宣称，断言
+- turn up 出现发现
+- in its haste 因为仓促行事
+- enact 颁布
+- endowment 捐赠
+- hard-line 强硬的
+- prevail 胜诉，流行，占上风
+- render 提供，使变得，导致
+- notorious  臭名昭著的
+- save for 除了
+- clamour for 呼吁强烈要求
+- spiral 螺旋的
+- dole out 分发
+- subsidies 津贴
+- endure 忍受持续
+- blackout 停电
+- volatile 易变的，不稳定的
+- offensive 有进攻性的
+- assent 同意
+- count for 有价值
+- at odds with 与...相悖
+- credo 信条
+- portend 预示
+- of late 近期
+- Fed 美联储
+- preoccupied 专注的
+- bestow 授予
+- ebb 衰落
+- get one's way 随心所欲
+- rest on 依赖
+- predecessor 前任，前辈
+- precarious 危险的
+- 

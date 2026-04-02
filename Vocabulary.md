@@ -1,6 +1,8 @@
+# Vocabulary
+
 - layover 临时滞留，中途下车。
-- sequel = contiuation = follow-up 续集
-- villain 恶棍 
+- sequel = continuation = follow-up 续集
+- villain 恶棍
 - vice president 副总统
 - slot 缝隙，缺口
 - zero in on a job 集中精力，瞄准
@@ -23,10 +25,10 @@
 - magnify 放大，加大
 - intimate 暗示
 - champion 支持
-- aggregate / seggregate 聚合/分开
+- aggregate / segregate 聚合/分开
 - duplicate 复制
 - annotate 注释
-- argubly 按理说，可以说
+- arguably 按理说，可以说
 - convict 定罪
 - surveil 监视
 - attenuated 减弱的
@@ -42,9 +44,9 @@
 - reinstate 恢复
 - active 合法，有效的
 - unilaterally 单方面的
-- streamrolling 碾压
+- steamrolling 碾压
 - all about 除了
-- find......unconstitutional 裁定   违宪
+- find......unconstitutional 裁定 违宪
 - manner 方式方法
 - violate 违反违背
 - lengthy 漫长的
@@ -57,7 +59,7 @@
 - hard-line 强硬的
 - prevail 胜诉，流行，占上风
 - render 提供，使变得，导致
-- notorious  臭名昭著的
+- notorious 臭名昭著的
 - save for 除了
 - clamour for 呼吁强烈要求
 - spiral 螺旋的
@@ -81,4 +83,3 @@
 - rest on 依赖
 - predecessor 前任，前辈
 - precarious 危险的
-- 

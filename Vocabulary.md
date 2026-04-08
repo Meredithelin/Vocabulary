@@ -83,3 +83,5 @@
 - rest on 依赖
 - predecessor 前任，前辈
 - precarious 危险的
+- precaution 预防
+- at odds with 与……不一致

@@ -83,5 +83,36 @@
 - rest on 依赖
 - predecessor 前任，前辈
 - precarious 危险的
+- monopolize 垄断
+- in light of 鉴于
+- irrevocable 不可撤销的
+- back out 退出
+- reconcile 调和，和解
+- illicit 非法的
+- in lieu 代替
+- oil bounty 油料补贴
+- in real terms
+- sprawling 蔓延的，杂乱无章的, 庞大的
+- conglomerate 企业集团
+- have stakes in 在......有股份
+- pharmaceutical 制药的
+- stoke 激起，煽动
+- proceeds 收入，收益
+- portfolio 投资组合
+- cosmetics 化妆品
+- rake in 大量赚取
+- in the black 盈利的
+- in the red 亏损的
+- premium 保险费，额外费用
+- smuggle 走私
+- reckon 认为，估计
+- in the pipeline 在计划中
+- in the works 在计划中
+- in the offing 即将发生的
+- in the cards 很可能发生的
+- in the air 即将发生的
+- in the making 在酝酿中的
+- in the bag 十拿九稳的
+- in the balance 悬而未决的
 - precaution 预防
 - at odds with 与……不一致

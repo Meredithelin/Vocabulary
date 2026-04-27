@@ -120,3 +120,25 @@
 - henceforth 从今以后
 - premature 过早的，提早的
 - reconcile 使和解，调停
+- cheat certain death 死里逃生
+- spit out 吐出
+- trade-off 妥协，权衡
+- humiliate 羞辱
+- acclaim 称赞，赞扬
+- liquor 酒
+- counterfeit 伪造的
+- commuter 通勤者
+- commute 通勤
+- commutation 减刑
+- commuter rail 通勤铁路
+- commute to work 上班通勤
+- resent 愤恨，怨恨
+- resentment 愤恨，怨恨
+- resentful 愤恨的，怨恨的
+- contagious 传染性的
+- chiefly 主要地
+- toil on 辛苦工作
+- paradoxically 矛盾地
+- gadget 小工具
+- excel 擅长，胜过
+- fabricate 编造，制造

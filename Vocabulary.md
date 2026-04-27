@@ -116,3 +116,7 @@
 - in the balance 悬而未决的
 - precaution 预防
 - at odds with 与……不一致
+- concede 承认
+- henceforth 从今以后
+- premature 过早的，提早的
+- reconcile 使和解，调停

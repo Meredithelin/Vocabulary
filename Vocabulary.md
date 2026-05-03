@@ -142,3 +142,12 @@
 - gadget 小工具
 - excel 擅长，胜过
 - fabricate 编造，制造
+- deficient 不足的，缺乏的
+- deficiency 不足，缺乏
+- deficit 赤字，亏损
+- compose 组成，构成,创作
+- decompose 分解，腐烂
+- immutable 不变的
+- hood 兜帽，头巾
+- accent 强调的
+- accentuate 强调

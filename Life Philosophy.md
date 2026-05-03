@@ -15,6 +15,7 @@
 13. 站上课桌的人注定孤独，但跪着活的人连孤独的资格都没有
 14. 这是梭罗《瓦尔登湖》中的名句，英文原文如下：
 
-> I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.
+    > I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived. --Henry David Thoreau, _Walden_ (1854)
 
-— Henry David Thoreau, _Walden_ (1854) 15. Every goodbye is a little death.
+15. Every goodbye is a little death.
+16. 决定我们自身的不是过去的经历，而是我们自己赋予经历的意义。
